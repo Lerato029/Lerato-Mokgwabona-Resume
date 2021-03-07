@@ -148,7 +148,7 @@ header {
 
 /* *********************************************||HISTORY SECTION||*********************************************/
 section.history {
-    padding: 50px 100px;
+    padding: 100px 50px;
     height: 170vh;
     background-color: var(--purple);
     text-align: center;
@@ -235,7 +235,7 @@ div.skills {
     border-radius: 10px;
     font-size: 40px;
     font-weight: 900;
-    height: 550px;
+    height: 500px;
     padding-top: 50px;
     display: none;
 }
