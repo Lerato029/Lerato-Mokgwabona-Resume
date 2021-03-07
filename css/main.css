@@ -148,7 +148,7 @@ header {
 
 /* *********************************************||HISTORY SECTION||*********************************************/
 section.history {
-    padding: 300px 100px;
+    padding: 100px 100px;
     height: 170vh;
     background-color: var(--purple);
     text-align: center;
