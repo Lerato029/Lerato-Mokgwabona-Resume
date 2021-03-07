@@ -180,11 +180,10 @@ section.history {
     /* will be shown using js*/
     background-color: white;
     color: var(--darkPurple);
-    padding: 0px 30px 20px 40px;
+    padding: 0px 30px 20px 10px;
 }
 
 .aContent table {
-    margin: 0;
     width: 100%;
     text-transform: capitalize;
     text-align: left;
