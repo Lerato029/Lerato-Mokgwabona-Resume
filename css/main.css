@@ -148,7 +148,7 @@ header {
 
 /* *********************************************||HISTORY SECTION||*********************************************/
 section.history {
-    padding: 160px 10px;
+    padding: 160px 20px;
     height: 170vh;
     background-color: var(--purple);
     text-align: center;
@@ -161,12 +161,8 @@ section.history {
     color: var(--darkPurple)
 }
 
-
-section.history .col-sm {
-    padding: 5px;
-}
-
 .accordion {
+    width: 100%;
     margin: 10px;
     font-size: 150px;
     color: white;
