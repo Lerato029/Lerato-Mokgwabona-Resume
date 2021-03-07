@@ -215,11 +215,17 @@ section.history {
 }
 
 /* *********************************************||SKILLS||*********************************************/
+
 div.skills {
     padding: 100px 100px;
     height: 130vh;
     text-align: center;
     background-color: var(--darkPurple);
+}
+
+div.skills .row {
+    border: 0px;
+    padding: 30px 0;
 }
 
 .skills h1 {
