@@ -163,7 +163,6 @@ section.history {
 
 .accordion {
     width: 100%;
-    margin: 10px;
     font-size: 150px;
     color: white;
     border-bottom: 1px solid white;
@@ -185,6 +184,7 @@ section.history {
 }
 
 .aContent table {
+    margin: 0;
     width: 100%;
     text-transform: capitalize;
     text-align: left;
