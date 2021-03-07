@@ -148,7 +148,7 @@ header {
 
 /* *********************************************||HISTORY SECTION||*********************************************/
 section.history {
-    padding: 100px 50px;
+    padding: 160px 0px;
     height: 170vh;
     background-color: var(--purple);
     text-align: center;
@@ -189,6 +189,7 @@ section.history {
 }
 
 .aContent table {
+    width: 100%;
     text-transform: capitalize;
     text-align: left;
 }
@@ -201,6 +202,20 @@ section.history {
 .aContent th {
     text-transform: uppercase;
     padding: 2px;
+}
+
+.aContent p {
+    text-align: left;
+    padding: 10px;
+}
+
+.aContent a {
+   color: var(--darkPurple);
+   text-decoration: none;
+}
+
+.aContent a:hover {
+   color: var(--purple);
 }
 
 /* *********************************************||SKILLS||*********************************************/
