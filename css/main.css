@@ -196,7 +196,6 @@ section.history {
 
 .aContent th {
     text-transform: uppercase;
-    padding: 2px;
 }
 
 .aContent p {
@@ -237,7 +236,8 @@ div.skills .row {
 .skills .col-sm img {
     margin: 0;
     width: 80px;
-    transform: transform .3s;/* will tranform for 0.3 seconds */
+    transform: transform .8s;/* will tranform for 0.8 seconds */
+    cursor: pointer;
 }
 
 .skills .col-sm img:hover {
